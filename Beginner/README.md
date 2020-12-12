@@ -18,15 +18,13 @@ devices than people, and attackers are becoming more innovative." - CISCO<br/>
 [Watch a cyberattack unfold](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html?socialshare=lightbox1)<br/>
 <br/>
 
-Learn From Youtube:<br/><br/>
+Learn From Youtube:<br/>
 
 [What is Cyber Security?](https://www.youtube.com/watch?v=2mh-N9_O_yI)<br/>
 Cyberactive Security<br/>
-<br/>
 
 [Cybersecurity 101](https://www.youtube.com/watch?v=sdpxddDzXfE)<br/>
 NOVA PBS Official<br/>
-<br/>
 
 [Why Cybersecurity is Important!](https://www.youtube.com/watch?v=JIJslcA8Q5g)<br/>
 TEDx Talks<br/>
