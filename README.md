@@ -7,3 +7,8 @@ in every repository as they all contain important information that could help wi
 <p align="center">
 <img width="350px" src="Archive/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
 </p>
+<br>
+
+<b>Email:</b> crimsonCyberDefense@gmail.com <br>
+<b>Slack:</b> https://bit.ly/2yGRfV5 <br>
+<b>Website:</b> uacrimsondefense.github.io
