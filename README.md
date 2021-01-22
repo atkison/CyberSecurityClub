@@ -9,6 +9,6 @@ in every repository as they all contain important information that could help wi
 </p>
 <br>
 
-<b>Email:</b> crimsonCyberDefense@gmail.com <br>
-<b>Slack:</b> https://bit.ly/2yGRfV5 <br>
-<b>Website:</b> uacrimsondefense.github.io
+                                                <b>Email:</b> crimsonCyberDefense@gmail.com <br>
+                                                <b>Slack:</b> https://bit.ly/2yGRfV5 <br>
+                                                <b>Website:</b> uacrimsondefense.github.io
