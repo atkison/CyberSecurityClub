@@ -1,5 +1,5 @@
 # Security Product of the Week
-Every week we will breifly talk about a product that helps with security, privacy, anonymity, etc. There are many great products out there and talking about one or two every week will help learn about them all. You might even love some of these products and start using them every day!
+Every week we will breifly talk about a product that helps with security, privacy, anonymity, etc. There are many great products out there and talking about one or two every week will help learn about a lot of them. You might even love some of these products and start using them every day!
 
 ## Products and Our Ratings
 Meeting on 1/21/21<br>
