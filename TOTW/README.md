@@ -1,0 +1,2 @@
+# Tool of the Week
+Every week someone from the competition team will look into a tool used for solving CTF challenges. A breif presentation will be given about the tool and a write up consisting of only a few sentences will be presented as well. Here you can find the tools that we have discussed and the write up provided by the individual who did researched said tool.

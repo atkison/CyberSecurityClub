@@ -2,12 +2,12 @@
 <p>You are probably here because this is all brand new to you and you want to learn what cybersecurity is all about! Here you will find links to resources that will hopefully provide you with the information you are looking for. If you are just starting out, it is time to learn the basics.</p>
 <br>
 
-## YouTube
+## <b>YouTube</b>
 You won't find a better place full of videos to get you started than YouTube. So many different channels
 with great content and individuals that wan't to educate others and teach people the important aspects 
 of the cyber security world. The following are links to youtube videos that are worth checking out!
 
-### What is Cybersecurtiy?
+### <b>What is Cybersecurtiy?</b>
 "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These 
 cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money 
 from users; or interrupting normal business processes.
@@ -39,7 +39,7 @@ Here is a nice beginners guide to cybersecurity<br>
 [Beginner's Guide](https://techbootcamps.rice.edu/blog/the-beginners-guide-to-cybersecurity/) <br>
 <br>
 
-### <b>Command Line Interface (CLI)</b>
+## <b>Command Line Interface (CLI)</b>
 <p>You will be spending a lot of time with the command line interface (CLI). Therefore, it is important that you understand why and how to use it. </p>
 
 [What is Command Line Interface](https://www.w3schools.com/whatis/whatis_cli.asp)<br>
@@ -60,7 +60,7 @@ Here is a nice beginners guide to cybersecurity<br>
 [Over the wire](https://overthewire.org/wargames/bandit/) <br>
 <br>
 
-### <b>Virtual Machines and Virtualbox</b>
+## <b>Virtual Machines and Virtualbox</b>
 <p>Along with the CLI another important topic is the Virtual Machine (VM). Virtual machines get used a lot when learning cybersecurity and throughout your cybersecurity career! It is definitely very important to know. The following link will take you to a great description and video describing what a virtual machine is.</p>
 
 [What is a virtual machine](https://www.ibm.com/cloud/learn/virtual-machines)
@@ -68,8 +68,9 @@ Here is a nice beginners guide to cybersecurity<br>
 <p>The hypervisor we typically use is VirtualBox, the following is a link to the main website where you can learn more about it. Downloading it is very straightfoward, click the big blue button!</p>
 
 [VirtualBox](https://www.virtualbox.org/) <br>
+<br>
 
-### <b>Introduction Material</b>
+## <b>Introductory Material</b>
 Here are some other links to videos I think will be helpful. Obviously, from YouTube.<br>
 
 This crash course is great and can answer some of the million questions you probably have since this is all new to you.<br>
@@ -83,4 +84,6 @@ This crash course is great and can answer some of the million questions you prob
 
 [What is Ubuntu?](https://www.youtube.com/watch?v=SDMQxLblarE) <br>
 
-[What is Kali Linux?](https://www.youtube.com/watch?v=aHy1d4T7jh8)
+[What is Kali Linux?](https://www.youtube.com/watch?v=aHy1d4T7jh8) <br>
+
+[Are we in a simulation?](https://youtu.be/dEv99vxKjVI?t=1925)
