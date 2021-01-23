@@ -3,7 +3,7 @@ Welcome! Everyone from begginer level to advanced are welcome and encouraged to 
 the competition team. It is a great opportunity to learn more about cyber security 
 and really dive deep into what it takes to solve complex cyber security problems. 
 Here you will find resources on CTFs and other competitions. New to cyber competitions? 
-Check out the resources within the [Where_to_Start](/Compete/Where_to_Start) directory.<br/>
+Check out the resources within the [Where_to_Start](/Competition_Prep/Where_to_Start) directory.<br/>
 
 # Before You Start!
 If you are looking to start solving your own challenges and learning about how to compete, 
@@ -19,8 +19,8 @@ Checkout each individual CTF topic's directory and learn more about them and fin
 which tools you can be using right now to help you with solving CTF challenges!<br/>
 
 Different topics you might come across in a CTF event include:<br/>
-[Forensics](/Compete/CTF/Forensics)<br/>
-[Cryptography](/Compete/CTF/Cryptography)<br/>
-[Web Exploitation](/Compete/CTF/Web_Exploitation)<br/>
-[Reverse Engineering](/Compete/CTF/Reverse_Engineering)<br/>
-[Binary Exploitation](/Compete/CTF/Binary_Exploitation)<br/>
+[Forensics](/Competition_Prep/CTF/Forensics)<br/>
+[Cryptography](/Competition_Prep/CTF/Cryptography)<br/>
+[Web Exploitation](/Competition_Prep/CTF/Web_Exploitation)<br/>
+[Reverse Engineering](/Competition_Prep/CTF/Reverse_Engineering)<br/>
+[Binary Exploitation](/Competition_Prep/CTF/Binary_Exploitation)<br/>

@@ -1,0 +1,2 @@
+# Beginner
+You have a good grasp at what cybersecurity is and what it entails. You are at least familiar with everything covered in the [where_to_start directory](/0_Where_To_Start) and are ready to start learning more. If you are not familiar with everything covered in the basics then what are you doin? Get out of here, go learn the basics! They're important! Continuing, here you will find resources to help get you ready for the big leagues.

@@ -12,3 +12,9 @@ in every repository as they all contain important information that could help wi
 <b>Email:</b> crimsonCyberDefense@gmail.com <br>
 <b>Slack:</b> https://bit.ly/2yGRfV5 <br>
 <b>Website:</b> uacrimsondefense.github.io
+
+## 0 to 100
+With 0 meaning just starting out and 100 meaning being ready to start learning more difficult cybersecurity topics and porblems, this folder is filled with resources and links to guides and videos to get from 0 to 100, real quick. As someone who started out with little to no experience in cybersecurity I can say with confidence that learning the basics before jumping into the more difficult problems is very important!
+
+## Beginner
+Learn what cybersecurity is all about. Make sure you check out 0 to 100 if you are brand new to all of this, learning the basics is important!
