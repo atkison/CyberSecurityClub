@@ -3,12 +3,12 @@ Welcome! Everyone from begginer level to advanced are welcome and encouraged to 
 the competition team. It is a great opportunity to learn more about cyber security 
 and really dive deep into what it takes to solve complex cyber security problems. 
 Here you will find resources on CTFs and other competitions. New to cyber competitions? 
-Check out the resources within the [Where_to_Start](/Competition_Prep/Where_to_Start) directory.<br/>
+Check out the resources within the [Where_to_Start](/Competition_Prep/0_Where_to_Start) directory.<br/>
 
 # Before You Start!
 If you are looking to start solving your own challenges and learning about how to compete, 
 if you do not already have a virtual machine set up to where you can solve these challenges
-go ahead and checkout the [kali directory](/Kali) and follow the instructions on how to set
+go ahead and checkout the [kali directory](/Kali_Linux) and follow the instructions on how to set
 up your own kali linux virtual machine!  
 
 # CTF

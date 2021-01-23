@@ -8,13 +8,13 @@ in every repository as they all contain important information that could help wi
 <img width="350px" src="Archive/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
 </p>
 <br>
-<br>
 <b>Email:</b> crimsonCyberDefense@gmail.com <br>
 <b>Slack:</b> https://bit.ly/2yGRfV5 <br>
-<b>Website:</b> uacrimsondefense.github.io
+<b>Website:</b> uacrimsondefense.github.io<br>
+<br>
 
-## 0 to 100
-With 0 meaning just starting out and 100 meaning being ready to start learning more difficult cybersecurity topics and porblems, this folder is filled with resources and links to guides and videos to get from 0 to 100, real quick. As someone who started out with little to no experience in cybersecurity I can say with confidence that learning the basics before jumping into the more difficult problems is very important!
+## Where to Start
+One of most puzzling things to figure out, especially when trying to start learning about cybersecurity. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. This folder will help those brand new to cybersecurity. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what cybersecurity is all about.
 
 ## Beginner
 Learn what cybersecurity is all about. Make sure you check out 0 to 100 if you are brand new to all of this, learning the basics is important!
