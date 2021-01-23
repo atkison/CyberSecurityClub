@@ -13,8 +13,8 @@ in every repository as they all contain important information that could help wi
 <b>Website:</b> uacrimsondefense.github.io<br>
 <br>
 
-## Where to Start
-One of most puzzling things to figure out, especially when trying to start learning about cybersecurity. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. This folder will help those brand new to cybersecurity. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what cybersecurity is all about.
+## [Where do I even start?](/0_Where_To_Start)
+One of most puzzling things to figure out, especially when trying to start learning about cybersecurity. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. This folder will help those brand new to cybersecurity. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what cybersecurity is all about.<br><br>
 
-## Beginner
-Learn what cybersecurity is all about. Make sure you check out 0 to 100 if you are brand new to all of this, learning the basics is important!
+## [I'm new but I'm not brand new, you know?](/1_Beginner) 
+After learning the basics and having an understanding of what cybersecurity is, it is time to start diving deeper and learning all about the different aspects of cybersecurity.
