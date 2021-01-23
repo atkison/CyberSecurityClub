@@ -12,7 +12,7 @@ go ahead and checkout the [kali directory](/Kali_Linux) and follow the instructi
 up your own kali linux virtual machine!  
 
 # CTF
-CTF stands for Capture The Flag. 
+CTF stands for Capture The Flag. If you didn't know, now you know.
 
 # Tools
 Checkout each individual CTF topic's directory and learn more about them and find out
