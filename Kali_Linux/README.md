@@ -1,7 +1,7 @@
 # Kali Linux
 Here you will find instructions on how to download and setup your very own Kali Linux machine: <br>
 <br>
-If you are unfamiliar with what virtualbox, Linux, or Kali Linux is then head on over to the "where to start" directory where I have added some great links to videos and readings on both topics. I'll even give you a link right to it, here: [Let's Learn](/0_Where_To_Start) <br>
+If you are unfamiliar with what virtualbox, Linux, or Kali Linux is then head on over to the "where to start" directory where I have added some great links to videos and readings on those topics. I'll even give you a link right to it, here: [Let's Learn](/0_Where_To_Start) <br>
 <br>
 
 ## Before you get started
