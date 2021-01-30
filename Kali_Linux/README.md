@@ -1,16 +1,16 @@
 # Kali Linux
 Here you will find instructions on how to download and setup your very own Kali Linux machine: <br>
 <br>
-If you are unfamiliar with what virtualbox is or what linux is, head on over to the "where to start" directory where I have added some great links to videos and readings on both topics. I'll even give you a link right to it, here: [Let's Learn](/0_Where_To_Start) <br>
+If you are unfamiliar with what virtualbox, Linux, or Kali Linux is then head on over to the "where to start" directory where I have added some great links to videos and readings on both topics. I'll even give you a link right to it, here: [Let's Learn](/0_Where_To_Start) <br>
 <br>
 
 ## Before you get started
-Before you get started I recommend downloading a download manager. It is not necessary but can be helpful. You can download a popular and free one called [Free Download Manager](https://www.freedownloadmanager.org/). I mean, that name could not be better. If you ever google "hey I want a free donwload manger", boom that's the first thing that is going to pop up. If you're not sure why you should get it maybe this article will help. <br>
+Before you get started, I recommend downloading a download manager. It is not necessary but can be helpful. You can download a popular and free one called [Free Download Manager](https://www.freedownloadmanager.org/). I mean, that name could not be better. If you ever google "hey I want a free download manger", boom that's the first thing that is going to pop up. If you're not sure why you should get it maybe this article will help. <br>
 [Why You Should use a Download Manager](https://www.hellotech.com/blog/use-download-managers)<br>
 <br>
 
 ## Virtualbox
-If you don't already have virtualbox then go ahead and downlaod it. We all use it so if you have any trouble with it don't be afraid to ask for help! <br>
+If you don't already have virtualbox then go ahead and download it. We all use it so if you have any trouble with it don't be afraid to ask for help! <br>
 [VirtualBox](https://www.virtualbox.org/) <br>
 <br>
 
@@ -27,7 +27,7 @@ Prevent Kali from going idle:
 - Change all of them to "never"
 - Go to security, change the same thing, if you want to. 
 
-Lets now change the password:
+To change the password:
 - sudo su (su meaning switch user)
 - Type in the password ("kali")
 - passwd root (we are changing the password for the root user, you.)
@@ -41,9 +41,9 @@ After all of that you should be set. When powering down the machine do not use t
 <br>
 
 ## Windows won't let you power on Kali Linux?
-If you are using windows then you might come across an error in which the machine won't even start. Does it say something like "Failed to open a session for the virtual machine"? If so, try the following and see if it fixes the issue. If it doesn't fix the issue then you can always message in the general slack and ask for help!<br>
+If you are using Windows then you might come across an error in which the machine won't even start. Does it say something like "Failed to open a session for the virtual machine"? If so, try the following and see if it fixes the issue. If it doesn't fix the issue then you can always message in the general slack and ask for help!<br>
 
-What you are going to want to do is first close out your virtual machine manager, in this case it should be virtualbox. Go to Windows Search and type in "features". Click on "Turn Windows features on or off". No you are going to disable the follwoing. If any of them are already disabled then you can skip those:
+What you are going to want to do is first close out your virtual machine manager, in this case it should be virtualbox. Go to Windows Search and type in "features". Click on "Turn Windows features on or off". Now you are going to disable the following. If any of them are already disabled, then you can skip those:
 - Virtual Machine Platform
 - Windows Defender Application Guard
 - Windows Hypervisor Platform
