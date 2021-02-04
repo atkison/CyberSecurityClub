@@ -1,0 +1,42 @@
+bridges:
+https://bridges.torproject.org/options
+Or send email to their email bridges@torproject.org
+get transport obfs4
+
+Search Engines:
+duckduckgo.com - https://3g2upl4pq6kufc4m.onion/
+NotEvil hss3uro2hsxfogfq.onion/ 
+torch xmh57jrzrnw6insl.onion/
+ahmia - msydqstlz2kzerdg.onion
+
+Listings:
+hidden wiki http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
+dark.fail darkfailllnkf4vf.onion - PGP verifies links
+deep web subredit: https://www.reddit.com/r/deepweb/
+onions sub reddit - https://www.reddit.com/r/onions/
+
+Others:
+hidden answers answerstedhctbek.onion
+dread - reddit http://dreadditevelidot.onion/
+privacy sub reddit - https://www.reddit.com/r/privacy/
+
+Fake Identity:
+http://elfq2qefxx6dv3vy.onion/fakeid.php
+
+Temp Mail:
+http://grrmailb3fxpjbwm.onion/
+https://www.guerrillamail.com/
+https://tempmailaddress.com
+
+Huge list of other providers - https://gist.github.com/michenriksen/8710649
+
+temp mail - http://grrmailb3fxpjbwm.onion/
+Proton Mail - https://protonmail.com/ OR https://protonirockerxow.onion/login
+torbox - http://torbox3uiot6wchz.onion/
+elude - http://eludemaillhqfkh5.onion/
+Riseup - http://nzh3fv6jc6jskki3.onion
+mail2tor - http://mail2tor2zyjdctd.onion/
+
+
+Full list (keep in mind links might not work, if they don't then look for the service name in search engines or in link directories)
+https://www.reddit.com/r/onions/comments/6krt34/list_of_onion_email_providers/
