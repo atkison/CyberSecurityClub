@@ -43,8 +43,8 @@ Checkout each individual CTF topic's directory and learn more about them and fin
 which tools you can be using right now to help you with solving CTF challenges!<br/>
 
 Different topics you might come across in a CTF event include:<br/>
-[Forensics](/Competition_Team/CTF/Forensics)<br/>
-[Cryptography](/Competition_Team/CTF/Cryptography)<br/>
-[Web Exploitation](/Competition_Team/CTF/Web_Exploitation)<br/>
-[Reverse Engineering](/Competition_Team/CTF/Reverse_Engineering)<br/>
-[Binary Exploitation](/Competition_Team/CTF/Binary_Exploitation)<br/>
+[Forensics](/CTF/Forensics)<br/>
+[Cryptography](/CTF/Cryptography)<br/>
+[Web Exploitation](/CTF/Web_Exploitation)<br/>
+[Reverse Engineering](/CTF/Reverse_Engineering)<br/>
+[Binary Exploitation](/CTF/Binary_Exploitation)<br/>
