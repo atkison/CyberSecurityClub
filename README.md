@@ -21,7 +21,7 @@ DISCLAIMER: Using security techniques with malicious intent will result in your 
 <br>
 
 ## <b>Crimson Cyber Defense Competition Team</b> 
-Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. Here you will find resources on CTFs and other competitions. New to cyber competitions? Check out the resources within the [Where_to_Start](/Competition_Team/0_Where_to_Start) directory.<br/>
+Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. 
 
 ## [Meet the Crimson Defense H@ckers](/Crimson_Defense_H@ckers)
 The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the Crimson Defense H@ckers directory and meet the team! 
