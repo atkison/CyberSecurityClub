@@ -35,14 +35,14 @@ After learning the basics and having an understanding of what Cyber Security is,
 ## [I want to get a certification](/Security+More) 
 There are many certifications to choose from. Check out the Security+ directory and see which one grabs your attention!<br><br>
 
-## [CTF](/CTF)
+## [CTF](/Skills)
 Capture the flag events are a lot of fun. They test your skills across 5 main topics. These topics are Forensics, Cryptography, Web Exploitation, Reverse Engineering, and Binary Exploitation.<br> 
 
 Checkout each individual CTF topic's directory and learn more about them and find out which tools you can be using right now to help you with solving CTF challenges!<br>
 
 Different topics you might come across in a CTF event include:<br>
-[Forensics](/CTF/Forensics)<br>
-[Cryptography](/CTF/Cryptography)<br>
-[Web Exploitation](/CTF/Web_Exploitation)<br>
-[Reverse Engineering](/CTF/Reverse_Engineering)<br>
-[Binary Exploitation](/CTF/Binary_Exploitation)<br>
+Forensics <br>
+Cryptography <br>
+Web Exploitation <br>
+Reverse Engineering <br>
+Binary Exploitation
