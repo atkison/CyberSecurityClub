@@ -18,7 +18,7 @@ Waiting on response.... <br>
 <b>alluringPanda</b><br>
 Waiting on response.... <br>
 
-<b>LOR</b><b>
+<b>LOR</b><br>
 Waiting on response.... <br>
 
 <b>cryptoKiller</b><br>
