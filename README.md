@@ -20,11 +20,8 @@ DISCLAIMER: Using security techniques with malicious intent will result in your 
 <b>Website:</b> uacrimsondefense.github.io<br>
 <br>
 
-## <b>Crimson Cyber Defense Competition Team</b> 
-Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. 
-
 ## [Meet the Crimson Defense H@ckers](/Crimson_Defense_H@ckers)
-The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the Crimson Defense H@ckers directory and meet the team! 
+Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the Crimson Defense H@ckers directory and meet the team! 
 
 ## <b>Before You Start!</b>
 If you are looking to start solving your own challenges and learning about how to compete, if you do not already have a virtual machine set up to where you can solve these challenges go ahead and checkout the [Virtual Machines](Virtual_Machines) and follow the instructions on how to set up your own Ubuntu, Kali Linux, or Parrot OS virtual machine! 
