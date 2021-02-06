@@ -1,0 +1,2 @@
+for now, donwload OVA file under Parrot Security OVA, double click to import it into virtual box. Start it, wait a few minutes, a pop up will ask if you want to update. Update, this will take a while. Take a snapshot of the machine in Virtual Box. Then go crazy! <br>
+[Parrot OS](https://www.parrotsec.org/download/)

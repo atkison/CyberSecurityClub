@@ -1,5 +1,5 @@
 # Where to Start
-<p>You are probably here because this is all brand new to you and you want to learn what cybersecurity is all about! Here you will find links to resources that will hopefully provide you with the information you are looking for. If you are just starting out, it is time to learn the basics.</p>
+<p>You are probably here because this is all brand new to you and you want to learn what cyber security is all about! Here you will find links to resources that will hopefully provide you with the information you are looking for. If you are just starting out, it is time to learn the basics.</p>
 <br>
 
 ## <b>YouTube</b>
@@ -7,12 +7,12 @@ You won't find a better place full of videos to get you started than YouTube. So
 with great content and individuals that wan't to educate others and teach people the important aspects 
 of the cyber security world. The following are links to youtube videos that are worth checking out!
 
-### <b>What is Cybersecurtiy?</b>
-"Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These 
+### <b>What is Cyber Securtiy?</b>
+"Cyber security is the practice of protecting systems, networks, and programs from digital attacks. These 
 cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money 
 from users; or interrupting normal business processes.
 
-Implementing effective cybersecurity measures is particularly challenging today because there are more 
+Implementing effective cyber security measures is particularly challenging today because there are more 
 devices than people, and attackers are becoming more innovative." - CISCO<br>
 
 [Watch a cyberattack unfold](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html?socialshare=lightbox1)<br>
@@ -20,13 +20,13 @@ devices than people, and attackers are becoming more innovative." - CISCO<br>
 
 Learn From YouTube:<br>
 
-[What is Cybersecurity?](https://www.youtube.com/watch?v=2mh-N9_O_yI)<br>
+[What is Cyber Security?](https://www.youtube.com/watch?v=2mh-N9_O_yI)<br>
 Cyberactive Security<br>
 
-[Cybersecurity 101](https://www.youtube.com/watch?v=sdpxddDzXfE)<br>
+[Cyber Security 101](https://www.youtube.com/watch?v=sdpxddDzXfE)<br>
 NOVA PBS Official<br>
 
-[Why Cybersecurity is Important!](https://www.youtube.com/watch?v=JIJslcA8Q5g)<br>
+[Why Cyber Security is Important!](https://www.youtube.com/watch?v=JIJslcA8Q5g)<br>
 TEDx Talks<br>
 
 [Beginner Tips, Certifications and Career Paths](https://www.youtube.com/watch?v=xzDKM7eEweI)<br>
@@ -35,7 +35,7 @@ Infosec<br>
 [What Security Job Should I get?](https://www.youtube.com/watch?v=R_-K_TwsbOE)<br>
 Cyberactive Security<br>
 
-Here is a nice beginners guide to cybersecurity<br>
+Here is a nice beginners guide to cyber security<br>
 [Beginner's Guide](https://techbootcamps.rice.edu/blog/the-beginners-guide-to-cybersecurity/) <br>
 <br>
 
@@ -61,7 +61,7 @@ Here is a nice beginners guide to cybersecurity<br>
 <br>
 
 ## <b>Virtual Machines and Virtualbox</b>
-<p>Along with the CLI another important topic is the Virtual Machine (VM). Virtual machines get used a lot when learning cybersecurity and throughout your cybersecurity career! It is definitely very important to know. The following link will take you to a great description and video describing what a virtual machine is.</p>
+<p>Along with the CLI another important topic is the Virtual Machine (VM). Virtual machines get used a lot when learning cyber security and throughout your cyber security career! It is definitely very important to know. The following link will take you to a great description and video describing what a virtual machine is.</p>
 
 [What is a virtual machine](https://www.ibm.com/cloud/learn/virtual-machines)
 
