@@ -13,7 +13,7 @@ Learn hands on cyber security techinques. The virtual machines for this site are
 https://seedsecuritylabs.org/index.html <br>
 <br>
 
-The following is a link to a website in which you can buy some great course and learn a whole lot. Don't <b>EVER</b> pay full price for a course. Just put it in your wishlist, wait a few days, and then check again; There will be a sale. I should make a rule where if you pay full price for a course you have to sit out of the next competition meeting. <br>
+The following is a link to a website in which you can buy some great course and learn a whole lot. Don't <b>EVER</b> pay full price for a course. Just put it in your wishlist, wait a few days, and then check again; There will be a sale.<br>
 https://www.udemy.com/ <br>
 <br>
 
