@@ -47,5 +47,40 @@ When searching for a VPN service to use keep the following in mind. Your VPN is 
 
 You can also set up your own VPN and it would actually cost less than paying for a VPN service, but that's its own presentation. Let me know if that is something you would be interested in learning more about, if you even know who this is. <br>
 
+One VPN worth checking out is ProtonVPN. It's free and they have paid options if you want more perks. They are also a great secure e-mail service if you want to upgrade your email. <br>
+<br> 
+
 ## The Internet
-The internet was actually coined for a short word for inter-networking. The internet is a huge system of interconnected intranets or computer networks from all over the globe. The internet supports lots of different services, just one of which is the world wide web. 
+The internet was actually coined for a short word for inter-networking. The internet is a huge system of interconnected intranets or computer networks from all over the globe. The internet supports lots of different services, just one of which is the world wide web. <br>
+<br>
+
+## Internet Infrastructure 
+The internet works as a distributed system made up of lots of smaller computer networks owned by various ISPs, universities, governments, and other organizations that are all linked together through what is called peering agreements. There are organizations that help coordinate and direct internet traffic so that compatibility is maintained. One of the most well-known from these groups is ICANN which map IP addresses to internet domain names. When you enter YouTube.com in your web browser, it actually isn't enough information for your computer to know what website to show you. So your ISP directs it to a DNS server which matches what you typed to the IP address that corresponds to it so you can connect and get the information that you need. <br>
+
+You may have a lot of questions with one of them being, "How does the content of the website physically get to my PC?". One of the great features of the internet is that it is a packet switched network meaning that all data is broken up into little packets and then reassembled once it arrives at your computer. The advantage to this approach with computer data is that it allows each packet to take the most efficient route possible. This means that if everyone in the town next over from you, where your traffic would have normally gone, starts streaming Game of Thrones at exactly the same time it will congest any nearby nodes. This will cause your some of your packets to slow down. The remaining packets can be easily and dynamically rerouted via another path, even mid file so your internet speed stays high. <br>
+<br>
+
+## The World Wide Web
+The World Wide Web uses URLs or Uniform Resource Locators to locate stuff and hypertext languages such as HTML that can be rendered by your internet browser as a web page. It is essentially a virtually space where all the great content is stored and accessed using a protocol called HTTP but the internet is the thing that keeps it all connected. Plenty of stuff that we use probably on a daily basis is not a part of the web. For example, if you use a non-browser based email server, through a program like outlook, you are probably using protocols such as SMTP or POP which lie outside the web.
+
+## What is a Protocol
+A protocol is a set of common rules that controls communication between two or more devices on a specific medium like a wire or a radio wave. A network uses the TCP/IP (Transmission Control Protocol/Internet Protocol) stack to communicate with other applications. It is a set of network protocols stacked over each other and designed to work with each other. <br>
+<br>
+
+## The Deep Web
+The deep web is not a place, it is not hidden, and it actually harbors 0 criminal activity. The deep web is simply the unindexed content online; The raw data that google doesn't know about and google doesn't care about. It is the stuff on the internet that you can't bring up with a simple google search. Any page that you can't get to without needing to have the actual URL and the permissions to access it. This includes things such as private social media profiles, hidden sub reddits, medical and scientific and business databases, and bank account information. That is a whole lot of information. It is estimated the deep web makes up 99% of the world wide web and the surface web makes up only 1%. If this is all new to you, you have to freaking out right now. If you need to walk away for a few minutes to let that sink in then go ahead, I'll wait.
+
+## The Dark Net
+The reason why you're reading this is probably to learn about the dark web or dark net. Well you made it, let's talk about it. If you are someone that skipped the whole beginning and this is the first section you are reading, shame on you. Get back to the top and read, I promise you'll learn something. Anyways, what is the dark net? <br>
+
+The dark net is a hidden area comprised of information that is actively hidden from the public. The dark net can only be accessed by specific tools such as the TOR browser. You can download the TOR browser from the internet. It is free and open-source. TOR is a special service. It makes your browsing activity and gets you into the dark web. Will you find crime? Yes, but not to the degree that the media has claimed. Crime is neither the primary use of the dark net nor why it was built. <br>
+
+The dark net is just another tool and it is used by government agencies, journalists, anyone living in hostile governments, Whistleblowers, and just regular people who want to create and utilize anonymous online communities. Like any place where human beings congregate, there is illegal activity. You may be wondering why you only hear bad things about the dark net. This is because it sells. It's good click bait. There is also another agenda at work and it's to demonize the dark web and to scare people away from it. People in power try to do that because they believe if everyone was private and anonymous on the internet then they will lose control. <br>
+
+However you choose to judge it, one of the main reasons why the silk road was created was to fight back against that sort of control. It was built and operated in a hidden area and was operated by anonymous users. <br>
+
+Privacy serves a purpose, it is why we have blinds on our windows and a door on our bathroom. We have plenty to hide, and it has always been our right to hide it; Until now. Because today there are people that don't want us to protect our privacy, who in a large degree already have free access to our personal information. This includes tech and phone companies, law enforcement, and black hat hackers. <br>
+<br>
+
+## The Dark Web text
+The text document contains URLs to websites and .onion sites to help with being anonymous when on the dark web. You will also find links to a few dark web search engines which can help you find other dark web sites. Have fun, be safe, and stay anonymous!

@@ -20,23 +20,24 @@ DISCLAIMER: Using security techniques with malicious intent will result in your 
 <b>Website:</b> uacrimsondefense.github.io<br>
 <br>
 
-## [Meet the Crimson Defense H@ckers](/Crimson_Defense_H@ckers)
-Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the Crimson Defense H@ckers directory and meet the team! 
+## <b>Meet the Crimson Defense H@ckers</b>
+Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the [Crimson Defense H@ckers](/Crimson_Defense_H@ckers) directory and meet the team! <br>
+<br>
 
 ## <b>Before You Start!</b>
-If you are looking to start solving your own challenges and learning about how to compete, if you do not already have a virtual machine set up to where you can solve these challenges go ahead and checkout the [Virtual Machines](Virtual_Machines) and follow the instructions on how to set up your own Ubuntu, Kali Linux, or Parrot OS virtual machine! 
+If you are looking to start solving your own challenges and learning about how to compete, if you do not already have a virtual machine set up to where you can solve these challenges go ahead and checkout the [Virtual Machines](Virtual_Machines) and follow the instructions on how to set up your own Ubuntu, Kali Linux, or Parrot OS virtual machine! <br>
+<br>
 
-## [Where do I even start?](/0_Where_To_Start)
-One of most puzzling things to figure out, especially when trying to start learning about Cyber Security. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. This folder will help those brand new to Cyber Security. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what Cyber Security is all about.<br><br>
+## <b>Where do I even start?</b>
+One of most puzzling things to figure out, especially when trying to start learning about Cyber Security. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. [This folder]((/0_Where_To_Start)) will help those brand new to Cyber Security. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what Cyber Security is all about.<br>
+<br>
 
-## [I'm new but I'm not brand new, you know?](/1_Beginner) 
-After learning the basics and having an understanding of what Cyber Security is, it is time to start diving deeper and learning all about the different aspects of Cyber Security.<br><br>
+## <b>How can I get a certification?</b> 
+There are many certifications to choose from. Check out the [Security+](/Security+More) directory and see which one grabs your attention!<br>
+<br>
 
-## [I want to get a certification](/Security+More) 
-There are many certifications to choose from. Check out the Security+ directory and see which one grabs your attention!<br><br>
-
-## [CTF](/Skills)
-Capture the flag events are a lot of fun. They test your skills across 5 main topics. These topics are Forensics, Cryptography, Web Exploitation, Reverse Engineering, and Binary Exploitation.<br> 
+## <b>CTF</b>
+[Capture the flag]((/Skills)) events are a lot of fun. They test your skills across 5 main topics. These topics are Forensics, Cryptography, Web Exploitation, Reverse Engineering, and Binary Exploitation.<br> 
 
 Checkout each individual CTF topic's directory and learn more about them and find out which tools you can be using right now to help you with solving CTF challenges!<br>
 
