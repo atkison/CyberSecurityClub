@@ -4,7 +4,7 @@ Every week someone from the competition team will look into a tool used for solv
 # TOTW
 Meeting on 2/4/21<br>
 <b>Python</b> <br>
-Waiting on inspectElement to fill this out. <br>
+"When it comes to solving capture the flag challenges there are many great tools that you can use, some of which might already be downloaded on your pentesting machine! If not, you can find many great tools to download online. However, there are going to be times where the tools that you have at your disposal are almost what you need but not exactly what you need. If you ever get to this point, you should never give up. You just need to find another way to solve the problem and Python just might be your answer. Python is great for writing scripts quickly and effeciently. With Python, you can do almost anything. You can use Python to create scripts to solve an array of problems including password cracking, web exploitation, and many more." <br>
 <b>inspectElement</b>
 
 ----
