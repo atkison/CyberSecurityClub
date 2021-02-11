@@ -2,6 +2,13 @@
 Every week someone from the competition team will look into a tool used for solving CTF challenges. A breif presentation will be given about the tool and a write up consisting of only a few sentences will be presented as well. Here you can find the tools that we have discussed and the write up provided by the individual who did researched said tool.
 
 # TOTW
+Meeting on 2/11/21<br>
+[Snort](https://www.snort.org/) <br>
+"Snort is an open source intrusion prevention system. It is capable of real-time traffic analysis and packet logging. You can easily read through the logs and you can also have the logs fowarded to the logging system of your choice such as splunk; CCDC members will probably be familiar with that name. I also propose that whoever manages splunk should be gifted the incredible nickname that I thought of, Spunk Master Flex; named after Funk Master Flex." <br>
+<b>percyKnox</b>
+
+----
+
 Meeting on 2/4/21<br>
 <b>Python</b> <br>
 "When it comes to solving capture the flag challenges there are many great tools that you can use, some of which might already be downloaded on your pentesting machine! If not, you can find many great tools to download online. However, there are going to be times where the tools that you have at your disposal are almost what you need but not exactly what you need. If you ever get to this point, you should never give up. You just need to find another way to solve the problem and Python just might be your answer. Python is great for writing scripts quickly and effeciently. With Python, you can do almost anything. You can use Python to create scripts to solve an array of problems including password cracking, web exploitation, and many more." <br>
