@@ -3,13 +3,13 @@ For a team that lives in the deep dark corners of the dark web, The Crimson Defe
 
 ## The Team
 
-<b>percyKnox</b> <br>
+<b>Percy Knox</b> <br>
 I am an old white lady who loves to eat chocolate, but only if it's a Hersheys "giant" bar. The other ones just aren't as good. I started hacking in my early 60s, I want to say 63 but I could be wrong; It was so many years ago. It all started when I was at a Chinese restaurant and I opened up my fortune cookie and it said "you will be pwned in the near future". I immediately went home to my Ubuntu machine and starting securing the heck out of it. I don't know where I learned all the commands to be honest, they just came to me naturally. I spent 1000 hours, without getting up, making sure my system was as secure as it can be. A few days later I was pwned. I have since then spent every day practicing my security hardening skills and have never eaten at another Chinese restaurant again.<br>
 
-<b>inspectElement</b><br>
+<b>inspectelement</b><br>
 Waiting on response.... <br>
 
-<b>guiltyRemnant</b><br>
+<b>The Guilty Remnant</b><br>
 Waiting on response.... <br>
 
 <b>ACHME</b><br>
@@ -24,11 +24,11 @@ Waiting on response.... <br>
 <b>LOR</b><br>
 Waiting on response.... <br>
 
-<b>cryptoKiller</b><br>
+<b>cryptokiller</b><br>
 Waiting on response.... <br>
 
-<b>pandasPo</b><br>
+<b>PandasPo</b><br>
 Waiting on response.... <br>
 
-<b>gonzo</b><br>
+<b>Gonzo</b><br>
 Waiting on response.... <br>
