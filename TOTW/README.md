@@ -2,6 +2,17 @@
 Every week someone from the competition team will look into a tool used for solving CTF challenges. A breif presentation will be given about the tool and a write up consisting of only a few sentences will be presented as well. Here you can find the tools that we have discussed and the write up provided by the individual who did researched said tool.
 
 # TOTW
+Meeting on 2/18/21<br>
+<b>Hashcat</b><br>
+"Hashact is a popular password cracker and is designed to break even the most complex passwords. For example, let's say you are given a password that has been hashed using md5 (71b816fe0b7b763d889ecc227eab400a) and you know the format of the password you have is "SKY-HQNT-" followed by 4 digits then you can use hashcat to brute force it and find out what the entire password is. Using the following command will get you the answer:<br>
+hashcat -m 0 -a 3 ./<hash file name>.txt 'SKY-HQNT-?d?d?d?d' <br>
+  m is for mode and 0 is mode md5 <br>
+  a is for action and 3 is for brute force <br>
+  hash file is the text file where you are storing the hashed password" <br> 
+<b>Percy Knox</b>
+
+----
+
 Meeting on 2/11/21<br>
 [Snort](https://www.snort.org/) <br>
 "Snort is an open source intrusion prevention system. It is capable of real-time traffic analysis and packet logging. You can easily read through the logs and you can also have the logs fowarded to the logging system of your choice such as splunk; CCDC members will probably be familiar with that name. I also propose that whoever manages splunk should be gifted the incredible nickname that I thought of, Spunk Master Flex; named after Funk Master Flex." <br>
