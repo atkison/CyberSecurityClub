@@ -8,7 +8,8 @@ Meeting on 2/18/21<br>
 hashcat -m 0 -a 3 ./<hash file name>.txt 'SKY-HQNT-?d?d?d?d' <br>
 - m is for mode and 0 is mode md5 <br>
 - a is for action and 3 is for brute force <br>
-- hash file is the text file where you are storing the hashed password" 
+- hash file is the text file where you are storing the hashed password" <br>
+
 <b>Percy Knox</b>
 
 ----
