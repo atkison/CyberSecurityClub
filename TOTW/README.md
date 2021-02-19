@@ -4,11 +4,11 @@ Every week someone from the competition team will look into a tool used for solv
 # TOTW
 Meeting on 2/18/21<br>
 <b>Hashcat</b><br>
-"Hashact is a popular password cracker and is designed to break even the most complex passwords. For example, let's say you are given a password that has been hashed using md5 (71b816fe0b7b763d889ecc227eab400a) and you know the format of the password you have is "SKY-HQNT-" followed by 4 digits then you can use hashcat to brute force it and find out what the entire password is. Using the following command will get you the answer:<br>
+"Hashact is a popular password cracker and is designed to break even the most complex passwords. For example, let's say you are given a password that has been hashed using md5 (71b816fe0b7b763d889ecc227eab400a) and you know the format of the password you have is "SKY-HQNT-" followed by 4 digits then you can use hashcat to brute force it and find out what the entire password is. Using the following command will get you the answer:"<br>
 hashcat -m 0 -a 3 ./<hash file name>.txt 'SKY-HQNT-?d?d?d?d' <br>
 - m is for mode and 0 is mode md5 <br>
 - a is for action and 3 is for brute force <br>
-- hash file is the text file where you are storing the hashed password" <br>
+- hash file is the text file where you are storing the hashed password <br>
 
 <b>Percy Knox</b>
 
