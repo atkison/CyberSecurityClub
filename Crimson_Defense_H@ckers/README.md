@@ -9,6 +9,9 @@ I am an old white lady who loves to eat chocolate, but only if it's a Hersheys "
 <b>Gonzo</b><br>
 To say I love almonds is an understatement. To say almonds are my life is more accurate. This is the story of how my passion for my nutty little friends nearly landed me in federal prison. Now, I'm the type of person to milk something I love for everything it has. In this particular case, it involved literally milking these azure gems, until I had what I needed: Unsweetened, original almond milk. I go through at least 4 gallons of the stuff a week. I mean, who could resist? Low calorie, high flavor, no lactose with which to abuse my intestines? What more could a man want? Well, they don't call them Blue Diamonds for nothing... my wallet began to suffer. So I did what I could, I went to Aldi, I budgeted- anything to continue my addiction. That was until I found myself on an administrative account of an admiral almond associate. From here it was simple: I had found lifetime access to an allotment of all almond associated accessories. Frantically, I got them shipped to my next door neighbor, who worked during the day and I knew wouldn't be home. However, I made one teensy-tiny misstep, by failing to realize that nearly 500kg of almond products cannot simply arrive domestically without attracted unappreciated almond-eyed attention. The day felt right.. the almond breeze felt like silk against my skin. As the trucks approached however, the situation felt less like almond joy and more like payday pain, as the peanut police pulled past, parking parallel to the path. The PPD? This wasn't normally their jurisdiction- they mainly concerned themselves with peanut problems, occasionally cashew crimes, but never almond arrests. Uh oh. They approached my door, and after affirming my identity, they took everything. Not a single nut left unharvested in my whole house. They tore apart the walls, found the stash I had squirrelled away under the staircase, above the ceiling, inside my shirt pockets. Thankfully, the plunder they took was enough to prevent the pressing of persistent charges. Nevertheless, this was the end of the nepharious nut negotiation. To this day, I am a changed man. Well, as much of a man as you can be after such a tragedy.<br>
 
+<b>LOR</b><br>
+Most people think my hobbies are weird. After all, if one has a super magnified telescope and a 24/7 security watch of the neighborhood, that usually raises alarms in people’s heads. However, my crazy surveillance scheme has nothing to do with the people… but their plants. You see, I happen to run the Saddle Gulch Homes Potted Porch Plant Protection Program, SGHP5 for short. After experiencing several dry spells this past summer, I noticed a severe epidemic of dehydration hit the poor potted plants in my area. After some investigating with my binoculars, I found out that the cause of this mass death was due to their owners forgetting to water them! That night, under the cover of darkness, I stealthily went to every potted plant in need of H2O and doused them in a healthy mist for about 15 seconds before heading back to my home. Over the next month I developed an advanced surveillance system to monitor all the plants. My cameras run a sophisticated AI program that ID’s any victims, and instantly texts me their location, so that I can engage in a stealth rescue mission at night. I’m proud to say that ever since I established the SGHP5, there have been zero plant deaths due to dehydration in Saddle Gulch Homes, and I plan to keep it that way, for a long, long, time.<br>
+
 <b>inspectelement</b><br>
 Waiting on response.... <br>
 
@@ -22,9 +25,6 @@ Waiting on response.... <br>
 Waiting on response.... <br>
 
 <b>alluringPanda</b><br>
-Waiting on response.... <br>
-
-<b>LOR</b><br>
 Waiting on response.... <br>
 
 <b>cryptokiller</b><br>
