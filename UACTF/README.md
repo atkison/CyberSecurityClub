@@ -35,4 +35,11 @@ a comprehensive list of the types of challenges that will be seen during the com
 - Website security
 
 The following provides additional information and links for some of the challenge types
-to assist the students in preparing for UACTF 2021.
+to assist the students in preparing for UACTF 2021.<br>
+
+[Reverse Engineering](/Skills/Reverse_Engineering)<br>
+
+Again, the above is not an all-inclusive list of topics for UACTF, but it is a good starting
+point for teams. There is no right or wrong way to prepare for this event, and there are
+many resources available on the Internet that can help. Below is a list of some such
+resources that may be helpful in preparing your team for competition.
