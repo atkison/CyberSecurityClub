@@ -42,4 +42,13 @@ to assist the students in preparing for UACTF 2021.<br>
 Again, the above is not an all-inclusive list of topics for UACTF, but it is a good starting
 point for teams. There is no right or wrong way to prepare for this event, and there are
 many resources available on the Internet that can help. Below is a list of some such
-resources that may be helpful in preparing your team for competition.
+resources that may be helpful in preparing your team for competition. <br>
+
+Potentially Helpful Websites:
+- Learning Guides – https://picoctf.com/resources
+- CTF Field Guide – https://trailofbits.github.io/ctf/
+- Over the Wire – http://overthewire.org/wargames/
+- Capture the Flag 101 – https://ctf101.org
+- Collection of CTF info – https://github.com/apsdehal/awesome-
+- ctf/blob/master/README.md
+- List of practice sites – https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/
