@@ -16,4 +16,14 @@ Different topics you might come across in a CTF event include:<br>
 
 When you get to be very competitive it is recommended that you specialize in a single topic and the rest of the members of your team do the same. Obviously, everyone chooses a different topic. This doesn't mean that you only have to know about that single topic, it just means that you should have the most knowledge when it comes to solving those particular problems. You and the rest of your team should meet on a regular basis sharing new information that you found and teaching everyone at least the basics of your topic. There will be times where you will get stuck and if you are the only one that knows anything about that subject then how are your teammates going to be able to help you? You might be thinking right now, "well if I, the master of web exploitation, get stuck on a problem then how then are my teammates going to be able to help me? I know way more than them.". I have many answers to this one. You didn't get enough sleep the night before so you brain is a little foggy so you just need your teammate to remind you of a tip or trick you showed them in a previous meeting that wasn't on your mind at the moment. Or maybe It might be you first competition and your so nervous that you just feel like you forgot everything, bouncing around ideas with your teammates can help you remember what it was that you just briefly forgot. <br> 
 
-When it comes to learning and practicing for these, offense and defense can be considered mission sets and then there are skill sets which get brought up in CTFs and Jeopardy. Those skill sets can be applied to both defense and offense. So mainly, when studying for CTFs don't think that the skills you are learning can only be used for CTFs and nothing else.  
+When it comes to learning and practicing for these, offense and defense can be considered mission sets and then there are skill sets which get brought up in CTFs and Jeopardy. Those skill sets can be applied to both defense and offense. So mainly, when studying for CTFs don't think that the skills you are learning can only be used for CTFs and nothing else. <br>
+
+Potentially Helpful Websites:
+- Learning Guides – https://picoctf.com/resources
+- CTF Field Guide – https://trailofbits.github.io/ctf/
+- Over the Wire – http://overthewire.org/wargames/
+- Capture the Flag 101 – https://ctf101.org
+- Collection of CTF info – https://github.com/apsdehal/awesome-
+- ctf/blob/master/README.md
+- List of practice sites – https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/
+
