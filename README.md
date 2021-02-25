@@ -20,6 +20,9 @@ DISCLAIMER: Using security techniques with malicious intent will result in your 
 <b>Website:</b> uacrimsondefense.github.io<br>
 <br>
 
+## <b>UACTF</b>
+If you are competing in UACTF then check out the directory [UACTF](/UACTF) where you will find everything you need to understand what it entails and how to prepare for it!
+
 ## <b>Meet the Crimson Defense H@ckers</b>
 Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the [Crimson Defense H@ckers](/Crimson_Defense_H@ckers) directory and meet the team! <br>
 <br>
