@@ -12,10 +12,10 @@ To say I love almonds is an understatement. To say almonds are my life is more a
 <b>LOR</b><br>
 Most people think my hobbies are weird. After all, if one has a super magnified telescope and a 24/7 security watch of the neighborhood, that usually raises alarms in people’s heads. However, my crazy surveillance scheme has nothing to do with the people… but their plants. You see, I happen to run the Saddle Gulch Homes Potted Porch Plant Protection Program, SGHP5 for short. After experiencing several dry spells this past summer, I noticed a severe epidemic of dehydration hit the poor potted plants in my area. After some investigating with my binoculars, I found out that the cause of this mass death was due to their owners forgetting to water them! That night, under the cover of darkness, I stealthily went to every potted plant in need of H2O and doused them in a healthy mist for about 15 seconds before heading back to my home. Over the next month I developed an advanced surveillance system to monitor all the plants. My cameras run a sophisticated AI program that ID’s any victims, and instantly texts me their location, so that I can engage in a stealth rescue mission at night. I’m proud to say that ever since I established the SGHP5, there have been zero plant deaths due to dehydration in Saddle Gulch Homes, and I plan to keep it that way, for a long, long, time.<br>
 
-<b>inspectelement</b><br>
-Waiting on response.... <br>
-
 <b>The Guilty Remnant</b><br>
+All of existence has culminated to this moment with me to begin to write this paragraph, but I do not have anything I need to accomplish. I am a champion “cornhole” player, and what motivates me to continue to play the sport is to beat people who call it “cornhole” so that I can call it “Bags” straight to their face. I would give you my email or phone number, but I am completely unavailable.  My origin story began when I was walking down a street in the city, when I had a piano dropped on me.  I wasn’t extremely hurt, but someone was recording me. I smiled at the camera, but to my surprise, my teeth had been replaced by piano keys! After playing a short tune, they fell out, and I passed out. In retaliation, I performed a DOS attack on the piano moving company and sold employee info on the dark web (Reddit.com). My hobbies include haxing, playing heavily modded Minecraft on a laptop that can barely handle it, and emailing Noam Chomsky asking if he can help me with my Algorithms homework.<br>
+
+<b>inspectelement</b><br>
 Waiting on response.... <br>
 
 <b>ACHME</b><br>
