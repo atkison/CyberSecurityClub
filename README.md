@@ -22,9 +22,8 @@ DISCLAIMER: Using security techniques with malicious intent will result in your 
 
 ## <b>UACTF</b>
 If you are competing in UACTF, Crimson Defense welcomes you to the world of cyber security and wishes you the best of luck during the competition. If you would like to know more about the competition and how to prepare then definitely check out the directory for it! Here I'll even help you out, just click the blue button: <br>
-<p align="center">
-  [Blue Button](/UACTF)
-</p>  
+
+[Blue Button](/UACTF) <br>  
 <br>
 
 ## <b>Meet the Crimson Defense H@ckers</b>
