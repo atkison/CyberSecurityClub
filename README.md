@@ -25,6 +25,7 @@ If you are competing in UACTF, Crimson Defense welcomes you to the world of cybe
 
 [Blue Button](/UACTF) <br>  
 
+
 ## <b>Meet the Crimson Defense H@ckers</b>
 Everyone from begginer level to advanced are welcome and encouraged to join the competition team. It is a great opportunity to learn more about cyber security and really dive deep into what it takes to solve complex cyber security problems. The competition team is comprised of individuals motivated and driven to protect the world from any potential exploit or vulnerability. While both focused on hardening systems and pen-testing systems to make sure they are as secure as they can be, the Crimson Defense H@ckers work tirelessly day in and day out. They are an elite security group and there isn't a problem too difficult for them to solve. Head over to the [Crimson Defense H@ckers](/Crimson_Defense_H@ckers) directory and meet the team! <br>
 <br>
