@@ -43,7 +43,7 @@ There are many certifications to choose from. Check out the [Security+](/Securit
 <br>
 
 ## <b>CTF</b>
-[Capture the flag]((/Skills)) events are a lot of fun. They test your skills across 5 main topics. These topics are Forensics, Cryptography, Web Exploitation, Reverse Engineering, and Binary Exploitation.<br> 
+[Capture the flag]((/Skills)) events are a lot of fun. They test your skills across a variety topics. These topics include Forensics, Cryptography, Web Exploitation, Reverse Engineering, Binary Exploitation, and more!<br> 
 
 Checkout each individual CTF topic's directory and learn more about them and find out which tools you can be using right now to help you with solving CTF challenges!<br>
 
