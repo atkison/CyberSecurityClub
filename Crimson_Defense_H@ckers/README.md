@@ -30,7 +30,7 @@ Waiting on response.... <br>
 <b>alluringPanda</b><br>
 Waiting on response.... <br>
 
-<b>cryptokiller</b><br>
+<b>Cryptokiller</b><br>
 Waiting on response.... <br>
 
 <b>PandasPo</b><br>
