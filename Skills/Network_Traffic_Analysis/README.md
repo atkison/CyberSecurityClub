@@ -30,8 +30,8 @@ Below are the header format and definitions for both IPv4 and TCP from https://n
 information. <br>
 
 <p align="center">
-<img width="500px" height="550px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
-<img width="500px" height="550px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
+<img width="500px" height="450px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
+<img width="500px" height="450px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
 </p>
 
 
