@@ -12,7 +12,7 @@ Crimson Defense was established with three main goals in mind:<br>
 DISCLAIMER: Using security techniques with malicious intent will result in your removal from Crimson Defense. If applicable, you will be reported to the appropriate authorities. Do not abuse your power, WE ARE NOT A HACKTIVIST GROUP.
 
 <p align="center">
-<img width="450px" src="00_Archive/images/CD main logo-01.png" alt="Logo"/>
+<img width="450px" src="/00_Archive/images/CD main logo-01.png" alt="Logo"/>
 </p>
 <br>
 <b>Email:</b> crimsonCyberDefense@gmail.com <br>
