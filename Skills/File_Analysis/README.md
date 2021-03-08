@@ -8,7 +8,7 @@ One of the more common activities in digital forensics is the recovery of delete
 Below is a screenshot of the output of the Sleuth Kit file listing tool (fls) which shows two files that have been “deleted” by the user but are still recoverable. The ability to recover and save what was previously thought to be deleted files can be very valuable in an investigation. <br>
 
 <p align="center">
-<img width="450px" height="650px" src="/00_Archive/images/fileanalysis.png" alt="FileAnalysis"/>
+<img width="550px" height="550px" src="/00_Archive/images/fileanalysis.png" alt="FileAnalysis"/>
 </p>
 
 Specifically, when looking at the analysis of files, an investigator needs to start with the file header. File headers are information about a file that the computer stores so that it knows what type of file it is. Typically, file headers are stored in the first 4 or 5 bytes of a file. By using the hexdump tool, the hexadecimal version of a file can be viewed. Hexdump is available on most Linux distributions and there are many Windows interfaces to Hexdump (ex. https://sourceforge.net/projects/hexdump/). <br>
