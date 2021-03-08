@@ -1,4 +1,5 @@
 # Code-Breaking and Decoding 
+[BACK TO UACTF](/UACTF)<br>
 
 Having the ability to interpret and understand data even if it is presented in a different or unknown format is extremely important to conducting cyber security examinations and to the general understanding of cyber security. A coded message is simply a message that has been changed in some way so as to hide its meaning from prying eyes. <br>
 
@@ -20,3 +21,5 @@ Encryption is different from encoding as encoded messages do not require secret 
 
 [How to Make Your Data Safe Using Cryptography](https://www.guru99.com/how-to-make-your-data-safe-using-cryptography.html) <br>
 [Cryptography - KhanAcademy](https://www.khanacademy.org/computing/computer-science/cryptography) <br>
+
+[BACK TO UACTF](/UACTF)<br>
