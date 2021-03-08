@@ -33,5 +33,3 @@ information. <br>
 <img width="500px" height="450px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
 <img width="500px" height="450px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
 </p>
-
-
