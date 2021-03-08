@@ -29,16 +29,10 @@ Below is a table of common (well-known) ports and associative service name. <br>
 Below are the header format and definitions for both IPv4 and TCP from https://nmap.org/book/tcpip-ref.html. This site provides a good reference for this
 information. <br>
 
-<p align="center">
-<img width="450px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
-</p>
-<p align="center">
-<img width="450px" src="/00_Archive/images/headerformatu.png" alt="hf1u"/>
+<p align="left">
+<img width="450px" height="450px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
 </p>
 
-<p align="center">
-<img width="450px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
-</p>
-<p align="center">
-<img width="450px" src="/00_Archive/images/headerformat2u.png" alt="hf2u"/>
+<p align="right">
+<img width="450px" height="450px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
 </p>
