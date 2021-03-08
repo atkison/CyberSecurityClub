@@ -16,7 +16,7 @@ Specifically, when looking at the analysis of files, an investigator needs to st
 One of the more interesting items that occur during an investigation is when a suspect tries to disguise a file by changing an incriminating file’s signature. Having a good understanding of file signatures is important. Below is an exert from a larger list of file signatures of the more common files seen during investigations. A larger list can be seen at the following location: https://en.wikipedia.org/wiki/List_of_file_signatures <br>
 
 <p align="center">
-<img width="550px" height="450px" src="/00_Archive/images/filesignatures.png" alt="FileSignatures"/>
+<img width="650px" height="450px" src="/00_Archive/images/filesignatures.png" alt="FileSignatures"/>
 </p>
 
 [BACK TO UACTF](/UACTF)<br>
