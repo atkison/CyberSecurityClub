@@ -31,9 +31,7 @@ information. <br>
 
 <p align="left">
 <img width="450px" height="450px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
-<p align="right">
 <img width="450px" height="450px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
-</p>
 </p>
 
 
