@@ -10,9 +10,9 @@ Hx: 4C 65 74 20 74 68 65 20 67 61 6D 65 73 20 62 65 67 69 6E 21 <br>
 Oct: 114 145 164 040 164 150 145 040 147 141 155 145 163 040 142 145 147 151 156 041 <br>
 Html: &#76 &#101 &#116 &#32 &#116 &#104 &#101 &#32 &#103 &#97 &#109 &#101 &#115 &#32 &#98 &#101 &#103 &#105 &#110 &#33 <br>
 
-
-![Ascii Talbe](https://github.com/crimsonDefense/CyberSecurityClub/blob/main/00_Archive/images/asciiTable.png?raw=true) <br>
-
+<p align="center">
+<img width="450px" src="/00_Archive/images/asciiTable.png" alt="AsciiTable"/>
+</p>
 
 Being able to recognize different encoding schemes can be an asset when trying to find hidden information. However, encoding isn’t the most secure way to code a message. If a person recognizes the encoding scheme, all they have to do is go to the lookup table to decode it. <br>
 
