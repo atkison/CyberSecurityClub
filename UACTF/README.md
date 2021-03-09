@@ -23,10 +23,10 @@ The following provides additional information and links for some of the challeng
 to assist the students in preparing for UACTF 2021.<br>
 
 [Code Breaking and Decoding](/"Crimson Defense"/Skills/Code_Breaking)<br>
-[File Analysis](/Skills/File_Analysis)<br>
-[Network Traffic Analysis](/Skills/Network_Traffic_Analysis)<br>
-[Website Security](/Skills/Website_Security)<br>
-[Reverse Engineering](/Skills/Reverse_Engineering)<br>
+[File Analysis](/Crimson Defense/Skills/File_Analysis)<br>
+[Network Traffic Analysis](/Crimson Defense/Skills/Network_Traffic_Analysis)<br>
+[Website Security](/Crimson Defense/Skills/Website_Security)<br>
+[Reverse Engineering](/Crimson Defense/Skills/Reverse_Engineering)<br>
 
 Again, the above is not an all-inclusive list of topics for UACTF, but it is a good starting
 point for teams. There is no right or wrong way to prepare for this event, and there are
