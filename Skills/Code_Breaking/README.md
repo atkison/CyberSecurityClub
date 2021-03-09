@@ -19,7 +19,7 @@ Being able to recognize different encoding schemes can be an asset when trying t
 
 Encryption is different from encoding as encoded messages do not require secret information to understand or interpret. Whereas, encryption involves altering the content of the message and must be decrypted using a secret key to reverse the process. Encryption is a more secure way to code a message. Encryption takes a key known by the encoder and uses that key to change the message. Then, only the people that know the key will be able to decrypt the message. The simplest form of encryption is a Caesar Cypher. For the example above, a Caesar Cypher shift +1 would shift each letter in the message up by one character. So, Let the games begin! would become Mfu uif hbnft cfhjo! More information on encryption: <br>
 
-[How to Make Your Data Safe Using Cryptography](https://www.guru99.com/how-to-make-your-data-safe-using-cryptography.html) <br>
-[Cryptography - KhanAcademy](https://www.khanacademy.org/computing/computer-science/cryptography) <br>
+https://www.guru99.com/how-to-make-your-data-safe-using-cryptography.html <br>
+https://www.khanacademy.org/computing/computer-science/cryptography <br>
 
 [BACK TO UACTF](/UACTF)<br>
