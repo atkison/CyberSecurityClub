@@ -24,15 +24,15 @@ protocols and services (0-1023), registered ports for specific services (1024-49
 Below is a table of common (well-known) ports and associative service name. <br>
 
 <p align="center">
-<img width="450px" src="/00_Archive/images/ports.png" alt="Ports"/>
+<img width="450px" src="/Archive/images/ports.png" alt="Ports"/>
 </p>
 
 Below are the header format and definitions for both IPv4 and TCP from https://nmap.org/book/tcpip-ref.html. This site provides a good reference for this
 information. <br>
 
 <p align="center">
-<img width="500px" height="450px" src="/00_Archive/images/headerformat.png" alt="hf1"/>
-<img width="500px" height="450px" src="/00_Archive/images/headerformat2.png" alt="hf2"/>
+<img width="500px" height="450px" src="/Archive/images/headerformat.png" alt="hf1"/>
+<img width="500px" height="450px" src="/Archive/images/headerformat2.png" alt="hf2"/>
 </p>
 
 [BACK TO UACTF](/UACTF)<br>
