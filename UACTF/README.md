@@ -24,7 +24,7 @@ to assist the students in preparing for UACTF 2021.<br>
 
 [Code Breaking and Decoding]("/Crimson Defense/Skills/Code_Breaking")<br>
 [File Analysis](/Crimson\ Defense/Skills/File_Analysis)<br>
-[Network Traffic Analysis](/Crimson&nbspDefense/Skills/Network_Traffic_Analysis)<br>
+[Network Traffic Analysis](/Crimson&nbsp;Defense/Skills/Network_Traffic_Analysis)<br>
 [Website Security](/Crimson Defense/Skills/Website_Security)<br>
 [Reverse Engineering](/Crimson Defense/Skills/Reverse_Engineering)<br>
 
