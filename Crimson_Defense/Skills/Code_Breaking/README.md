@@ -12,7 +12,7 @@ Oct: 114 145 164 040 164 150 145 040 147 141 155 145 163 040 142 145 147 151 156
 Html: &#76 &#101 &#116 &#32 &#116 &#104 &#101 &#32 &#103 &#97 &#109 &#101 &#115 &#32 &#98 &#101 &#103 &#105 &#110 &#33 <br>
 
 <p align="center">
-<img width="650px" height="400px" src="/00_Archive/images/asciiTable.png" alt="AsciiTable"/>
+<img width="650px" height="400px" src="/Archive/images/asciiTable.png" alt="AsciiTable"/>
 </p>
 
 Being able to recognize different encoding schemes can be an asset when trying to find hidden information. However, encoding isn’t the most secure way to code a message. If a person recognizes the encoding scheme, all they have to do is go to the lookup table to decode it. <br>
