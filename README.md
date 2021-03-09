@@ -35,7 +35,7 @@ If you are looking to start solving your own challenges and learning about how t
 <br>
 
 ## <b>Where do I even start?</b>
-One of most puzzling things to figure out, especially when trying to start learning about Cyber Security. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. [This folder]((/Crimson_Defense/0_Where_To_Start)) will help those brand new to Cyber Security. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what Cyber Security is all about.<br>
+One of most puzzling things to figure out, especially when trying to start learning about Cyber Security. There is so much to learn, which is one of the reasons why it is so great. But with there being so much information out there it can be hard to figure out where to even begin. [This folder](/Crimson_Defense/0_Where_To_Start) will help those brand new to Cyber Security. Individuals who have little to no experience and want to get started but don't know where to go. Hopefully the resources here will help you understand what Cyber Security is all about.<br>
 <br>
 
 ## <b>How can I get a certification?</b> 
