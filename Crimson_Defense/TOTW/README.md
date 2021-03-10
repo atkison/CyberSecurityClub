@@ -2,6 +2,15 @@
 Every week someone from the competition team will look into a tool used for solving CTF challenges. A breif presentation will be given about the tool and a write up consisting of only a few sentences will be presented as well. Here you can find the tools that we have discussed and the write up provided by the individual who did researched said tool.
 
 # TOTW
+Meeting on 3/04/21 <br>
+<b>Cryptii.com</b><br>
+Cryptii.com is an open source web app that provides the user with the means to encode or decode strings of characters within their browser. Encoding/decoding options include ASCII, binary, hexadecimal, base64, Caesar Cipher, Morse Code, and more! <br>
+To explore the web app for yourself go to: https://cryptii.com/ <br>
+
+<b> LOR </b>
+
+----
+
 Meeting on 2/25/21<br>
 <b>Cewl</b><br>
 “The Custom Word List generator, CeWL is a ruby app which spiders a given URL to a specified depth, optionally following external links, and returns a list of words which can then be used for password crackers such as John the Ripper.” This is useful when you have a webpage with some content (articles, blogs, or other forms of writing) available through http or https and you are trying to escalate your privilege. Example:<br>
