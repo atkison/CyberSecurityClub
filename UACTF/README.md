@@ -1,7 +1,7 @@
 # The University of Alabama Capture the Flag Competition 
 
 The University of Alabama Capture the Flag Competition (UACTF) is sponsored by the University of Alabama’s Computer Science Department, Crimson Defense
-Cyber Security Club, and the Digital Forensics and Control Systems Security Lab. UACTF will be a Jeopardy-style Capture the Flag Competition. There will be several categories to choose from with each category including easy, medium, and difficult challenges worth a varying amount of points. Clues will be available to help teams with solving the challenges, but these clues will cost the team points. The teams’ objective is to solve the challenges to score as many points as possible.<br>
+Cyber Security Club, and the Digital Forensics and Control Systems Security Lab. UACTF will be a Jeopardy-style Capture the Flag Competition. There will be several categories to choose from with each category including easy, medium, and difficult challenges worth a varying amount of points. Hints will be available to help teams with solving the challenges, but these clues will cost the team points. The teams’ objective is to solve the challenges to score as many points as possible.<br>
 
 Although UACTF is in the style of a competition, this is a fun educational exercise. There are opportunities for students at all skill levels. Through UACTF, students will be provided with opportunities to collaborate, learn, and be exposed to a different way of thinking about cyber security. This will include thinking about possible careers in the cyber security field. <br>
 
