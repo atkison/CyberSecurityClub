@@ -34,7 +34,7 @@ After all of that, you should be set. When powering down the machine, do not use
 <br>
 
 ## Kali 2020 x64 Customized by zSecurity
-After downloading and then double clicking on the OVA file, click on import. If you haven't downloaded Oracle VM extension pack, go ahead and do so now. I explain where it is [one directory up](../Virtual_Machines). If you have everything downloaded we can now turn on the machine. If you would like to change the name of the machine, I would do so now. Click on the machine, then settings, and then general; this is where you can change the name. After you do that, hit start.<br>
+After downloading and then double clicking on the OVA file, click on import. If you haven't downloaded Oracle VM extension pack, go ahead and do so now. I explain where it is [one directory up](../../Virtual_Machines). If you have everything downloaded we can now turn on the machine. If you would like to change the name of the machine, I would do so now. Click on the machine, then settings, and then general; this is where you can change the name. After you do that, hit start.<br>
 
 The log in information is going to be:<br>
 username: "root"<br>
