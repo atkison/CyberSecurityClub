@@ -1,5 +1,5 @@
 # Beginner
-Looking for resources to help you get ready for the big leagues? If you have a good grasp at what cyber security is and what it entails, or at least are familiar with everything covered in the [where_to_start](/0_Where_To_Start) directory, check out the websites listed below. If you are not familiar with the basics covered in where_to_start, then what are you doin? Go learn the basics! They're important! <br>
+Looking for resources to help you get ready for the big leagues? If you have a good grasp at what cyber security is and what it entails, or at least are familiar with everything covered in the [where_to_start](../0_Where_To_Start) directory, check out the websites listed below. If you are not familiar with the basics covered in where_to_start, then what are you doin? Go learn the basics! They're important! <br>
 
 Some Helpful Websites:
 - Learning Guides – https://picoctf.com/resources
