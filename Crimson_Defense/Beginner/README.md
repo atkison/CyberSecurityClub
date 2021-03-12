@@ -6,6 +6,5 @@ Some Helpful Websites:
 - CTF Field Guide – https://trailofbits.github.io/ctf/
 - Over the Wire – http://overthewire.org/wargames/
 - Capture the Flag 101 – https://ctf101.org
-- Collection of CTF info – https://github.com/apsdehal/awesome-
-- ctf/blob/master/README.md
+- Collection of CTF info – https://github.com/apsdehal/awesome-ctf/blob/master/README.md
 - List of practice sites – https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/
